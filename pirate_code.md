@@ -32,11 +32,13 @@ X.    Any man deserting the ship in battle or rewriting history on the
 
 **Instructions to sign the pirate code:**
 
-* Replace `NAME HERE` with your name on the line matching your rank in the team.
+* Replace YOUR NAME with your name on the line matching your rank in the team.
 * **IMPORTANT:** only sign for yourself, not for others.
 * **Note to the First mate:** make sure you revise article I of the pirate code
   above, so you get your fair share of the prize!
 
-Captain      : NAME HERE
+
 Quartermaster: Emma
 First mate   : Emma
+Captain      : Diana
+
